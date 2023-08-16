@@ -1,0 +1,8 @@
+#Use this dictionary to store your answers in the correct format in the cells below , do not modify the keys
+answer_dict =  {"Q1" : 392.742,
+                "Q2" : [['Mercedes-Benz', 333],['BMW', 284],['Chevrolet', 253],['Ford', 185],['GMC', 163]],
+                "Q3" : ['Regular Gas or Electricity','Regular Gas and Electricity','Regular','Premium or E85','Premium and Electricity','Premium Gas or Electricity','Premium','Midgrade','Gasoline or propane','Gasoline or natural gas','Gasoline or E85','Diesel','CNG'],
+                "Q4" : [['Cab/Chassis 2WD', 1993, 32.961, 4.113376218494312],['Cab/Chassis 2WD', 1992, 32.961, 4.113376218494312],['Cab/Chassis 2WD', 1991, 32.961, 4.113376218494312],['Cab/Chassis 2WD', 1990, 32.961, 4.113376218494312],['Cab/Chassis 2WD', 1989, 32.961, 4.113376218494312],['Camry CNG', 1999, 0.0808695652173913, 3.933613148435805],['Camry CNG', 2001, 0.0845454545454545, 3.932713521763228],['Camry CNG', 2000, 0.0845454545454545, 3.932713521763228],['Cab/Chassis 2WD', 1993, 29.96454545454546, 3.3800324772464214]],
+                "Q5" : [[1986.0, 26.0, nan],[1987.0, 26.0, 0.0],[1988.0, 25.0, -1.0],[1989.0, 25.0, 0.0],[1999.0, 24.0, -1.0],[2000.0, 24.0, 0.0],[2001.0, 24.0, 0.0],[2002.0, 24.0, 0.0],[2003.0, 24.0, 0.0],[2004.0, 24.0, 0.0],[2005.0, 24.0, 0.0],[2006.0, 24.0, 0.0],[2010.0, 25.0, 1.0],[2011.0, 26.0, 1.0],[2012.0, 26.0, 0.0],[2013.0, 26.0, 0.0],[2015.0, 30.0, 4.0],[2016.0, 30.0, 0.0],[2017.0, 29.0, -1.0]],
+                "Q6" : None,
+                "Q7" : None}
